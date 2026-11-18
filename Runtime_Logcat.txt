@@ -1,0 +1,53 @@
+[19:35:11] ✅ [+] libanogs.so found at base: 0x783EC51000
+[19:35:11] ✅ 📂 [+] Found clean disk path: /data/app/~~4LD40ILz_Iag0KRzVOyFqQ==/com.pubg.imobile-s_mXiW9Ng6pbebP4ZVafVg==/lib/arm64/libanogs.so
+[19:35:11] ✅ 📂 [+] Clean disk snapshot loaded! Size: 5689536 bytes
+[19:35:11] ✅ ⚡ [+] sub_37C904 hooked successfully!
+[19:35:11] ✅ ⚡ [+] sub_330494 hooked successfully!
+[19:35:11] ✅ ⚡ [+] sub_39F56C hooked successfully!
+[19:35:11] ✅ ⚡ [+] sub_39F644 hooked successfully!
+[19:35:11] ✅ ⚡ [+] sub_387A3C hooked successfully!
+[19:35:14] ✅ [+] libanogs.so found at base: 0x783EA2B000
+[19:35:14] ✅ 📂 [+] Found clean disk path: /data/app/~~4LD40ILz_Iag0KRzVOyFqQ==/com.pubg.imobile-s_mXiW9Ng6pbebP4ZVafVg==/lib/arm64/libanogs.so
+[19:35:14] ✅ 📂 [+] Clean disk snapshot loaded! Size: 5689536 bytes
+[19:35:14] ✅ ⚡ [+] sub_37C904 hooked successfully!
+[19:35:14] ✅ ⚡ [+] sub_330494 hooked successfully!
+[19:35:14] ✅ ⚡ [+] sub_39F56C hooked successfully!
+[19:35:14] ✅ ⚡ [+] sub_39F644 hooked successfully!
+[19:35:14] ✅ ⚡ [+] sub_387A3C hooked successfully!
+[19:35:16] ✅ [+] libanogs.so found at base: 0x7840A4B000
+[19:35:16] ✅ 📂 [+] Found clean disk path: /data/app/~~4LD40ILz_Iag0KRzVOyFqQ==/com.pubg.imobile-s_mXiW9Ng6pbebP4ZVafVg==/lib/arm64/libanogs.so
+[19:35:16] ✅ 📂 [+] Clean disk snapshot loaded! Size: 5689536 bytes
+[19:35:16] ✅ ⚡ [+] sub_37C904 hooked successfully!
+[19:35:16] ✅ ⚡ [+] sub_330494 hooked successfully!
+[19:35:16] ✅ ⚡ [+] sub_39F56C hooked successfully!
+[19:35:16] ✅ ⚡ [+] sub_39F644 hooked successfully!
+[19:35:16] ✅ ⚡ [+] sub_387A3C hooked successfully!
+[19:35:29] ✅ --------------------------------
+[19:35:29] ✅ 📦 Lib Name (a2): libanogs.so
+[19:35:29] ✅ 🔢 Section ID (a3): 2
+[19:35:29] ✅ 📍 Scan Offset (a4): 0x0
+[19:35:29] ✅ 📏 Scan Size (a5): 0 bytes
+[19:35:29] ✅ 📊 Final CRC32 (*a6): 0x8BDA9271
+[19:35:29] ✅ --------------------------------
+[19:35:31] ✅ --------------------------------
+[19:35:31] ✅ 📦 Lib Name (a2): libanogs.so
+[19:35:31] ✅ 🔢 Section ID (a3): 2
+[19:35:31] ✅ 📍 Scan Offset (a4): 0x0
+[19:35:31] ✅ 📏 Scan Size (a5): 0 bytes
+[19:35:31] ✅ 📊 Final CRC32 (*a6): 0x8BDA9271
+[19:35:31] ✅ --------------------------------
+[19:35:31] ✅ --------------------------------
+[19:35:31] ✅ 📦 Lib Name (a2): libanogs.so
+[19:35:31] ✅ 🔢 Section ID (a3): 1
+[19:35:31] ✅ 📍 Scan Offset (a4): 0x0
+[19:35:31] ✅ 📏 Scan Size (a5): 0 bytes
+[19:35:31] ✅ 📊 Final CRC32 (*a6): 0xCB9EE56B
+[19:35:31] ✅ --------------------------------
+[19:35:57] ✅ 🛡️ [Clean Bypass] sub_330494 | Offset: 0x1C1350 | Size: 3532264 | Clean CRC: 0x016D217F
+[19:35:57] ✅ 🎯 [.text Scan Detected] sub_39F56C | Addr: 0x783EE12350 | Offset: 0x1C1350 | Size: 3532264 | Clean Hash: 0x016D217F
+[19:35:57] ✅ 🎯 [.text Scan Detected] sub_39F56C | Addr: 0x783F170940 | Offset: 0x51F940 | Size: 3392 | Clean Hash: 0x0BB8C78F
+[19:35:57] ✅ 🎯 [.text Scan Detected] sub_39F56C | Addr: 0x783ECEFF80 | Offset: 0x9EF80 | Size: 501956 | Clean Hash: 0x78C8E21A
+[19:36:10] ✅ 🛡️ [Clean Bypass] sub_330494 | Offset: 0x1C1350 | Size: 3532264 | Clean CRC: 0x016D217F
+[19:36:10] ✅ 🛡️ [Clean Bypass] sub_330494 | Offset: 0x9EF80 | Size: 501956 | Clean CRC: 0x78C8E21A
+[19:36:52] ✅ 🛡️ [Clean Bypass] sub_330494 | Offset: 0x9EF80 | Size: 501956 | Clean CRC: 0x78C8E21A
+[19:37:44] ✅ 🛡️ [Clean Bypass] sub_330494 | Offset: 0x9EF80 | Size: 501956 | Clean CRC: 0x78C8E21A
